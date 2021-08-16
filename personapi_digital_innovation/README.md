@@ -1,5 +1,6 @@
 Estudo realizado com o mentor:
-Rodrigo Peleias rpeleias
+Rodrigo Peleias 
+githuv: rpeleias
 
 
 
